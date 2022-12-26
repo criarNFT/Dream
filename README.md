@@ -1,2 +1,2 @@
 # Dream
-Stable Difusion Images Generator
+SD15 Images Generator
